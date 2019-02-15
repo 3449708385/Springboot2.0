@@ -1,0 +1,3 @@
+com\mgp\BaseItem.class
+com\mgp\usermanager\bean\User.class
+com\mgp\usermanager\dao\UserMapper.class
